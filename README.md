@@ -39,5 +39,5 @@ Please refer the classification_code.py for testing out single image and a set o
 
 ## Contact 
 For any suggestions/contributions to the repository , please contact : <br />
-Prasanth Vadlamudi - f20210780@hyderabad.bits-pilani.ac.in / prasanth060703@gmail.com
+Prasanth Vadlamudi - f20210780@hyderabad.bits-pilani.ac.in / prasanth060703@gmail.com<br />
 Vittal Oruganti - f20210778@hyderabad.bits-pilani.ac.in / ovsvittal@gmail.com
